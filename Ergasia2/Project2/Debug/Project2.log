@@ -1,0 +1,19 @@
+﻿  Main.cpp
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(148): warning C4018: '>': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(173): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\filter.h(211): warning C4018: '>': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(130): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\user\dropbox\aueb\c plusplus\ergasia2\project2\main.cpp(224): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\User\Dropbox\AUEB\C plusplus\Ergasia2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\User\Dropbox\AUEB\C plusplus\Ergasia2\Debug\Project2.pdb (Partial PDB)
